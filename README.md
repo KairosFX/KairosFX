@@ -1,16 +1,36 @@
-## Hi there 👋
+# Kairos
 
-<!--
-**KairosFX/KairosFX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Developer | Systems-Oriented Programmer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I build systems with a focus on clarity, performance, and continuous improvement.
+
+---
+
+## Projects
+
+### 🛒 Shopping Cart Program
+Terminal-based shopping cart application built with object-oriented design.
+
+- Object-Oriented Programming (OOP)
+- Input validation & error handling
+- State management
+- Checkout logic
+
+[View Repository →](https://github.com/KairosFX)
+
+---
+
+## Tech Stack
+
+- Python
+- HTML / CSS
+- Git
+- Linux (Fedora)
+
+---
+
+Focused on continuous improvement.
