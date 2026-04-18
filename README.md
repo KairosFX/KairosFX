@@ -29,7 +29,6 @@ Terminal-based shopping cart application built with object-oriented design.
 - Python
 - HTML / CSS
 - Git
-- Linux (Fedora)
 
 ---
 
